@@ -11,4 +11,4 @@ En este repositorio puedes encontrar la lista actualizada de las librerías LUA 
 Como instalar
 --------------
 1. Extraer el contenido del repositorio
-2. Colocar la carpeta "lib" dentro del MoonLoader de tu SA:MP
+2. Colocar la carpeta "lib" dentro de la carpeta MoonLoader de tu SA:MP
